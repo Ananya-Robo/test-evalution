@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-PhotosAndVideosApp/Pods-PhotosAndVideosApp-frameworks.sh
+${BUILT_PRODUCTS_DIR}/MediaBrowser/MediaBrowser.framework
+${BUILT_PRODUCTS_DIR}/PaginatedTableView/PaginatedTableView.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/UICircularProgressRing/UICircularProgressRing.framework

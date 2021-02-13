@@ -1,0 +1,30 @@
+PODS:
+  - MediaBrowser (2.3.0):
+    - SDWebImage
+    - UICircularProgressRing
+  - PaginatedTableView (1.0.1)
+  - SDWebImage (5.10.4):
+    - SDWebImage/Core (= 5.10.4)
+  - SDWebImage/Core (5.10.4)
+  - UICircularProgressRing (8.0.0)
+
+DEPENDENCIES:
+  - MediaBrowser
+  - PaginatedTableView
+
+SPEC REPOS:
+  trunk:
+    - MediaBrowser
+    - PaginatedTableView
+    - SDWebImage
+    - UICircularProgressRing
+
+SPEC CHECKSUMS:
+  MediaBrowser: 6dc19b2d900db201083f2cdfb8bd650be7382bc3
+  PaginatedTableView: 294d9831d5ddf5c0dcfbb4a281d4fcfb8d12f55a
+  SDWebImage: c666b97e1fa9c64b4909816a903322018f0a9c84
+  UICircularProgressRing: 19927375b2b21b5fa5fd9582f15ccdef9659da16
+
+PODFILE CHECKSUM: 3eed3dab8b91485d626fb9ae71d816011ba0a92d
+
+COCOAPODS: 1.9.1
